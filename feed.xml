@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <feed xmlns="http://www.w3.org/2005/Atom">
+        <title>BangPypers</title>
+        <subtitle>The Bangalore Python User Group</subtitle>
+        <link rel="alternate" href="/" />
+        <link rel="self" href="/feed.xml" type="application/atom+xml" />
+        <id>/</id>
+        <updated>2015-05-24T09:25:51Z</updated>
+        
+        <author>
+            <name>BangPypers</name>
+            
+            <uri>/</uri>
+        </author>
+        
+        
+            <entry>
+                <title>May 2015 meetup report</title>
+                <link rel="alternate" href="/blog/2015/05/23/may-workshop/" type="text/html" />
+                <id>/blog/2015/05/23/may-workshop/</id>
+                <updated>2015-05-23T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/222588421/&#34;&gt;May BangPypers workshop&lt;/a&gt; happened at the &lt;a href=&#34;https://www.redhat.com&#34;&gt;RedHat&lt;/a&gt; office in Bannerghatta Road.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/222588421/&#34;&gt;May BangPypers workshop&lt;/a&gt; happened at the &lt;a href=&#34;https://www.redhat.com&#34;&gt;RedHat&lt;/a&gt; office in Bannerghatta Road.&lt;/p&gt;
+
+&lt;p&gt;The workshop was focussed on writing unit test and functional tests in Python using &lt;code&gt;unittest, py.test, mock&lt;/code&gt;. The presenter &lt;a href=&#34;&#34;&gt;Kracekumar&lt;/a&gt; started&lt;br&gt;
+the workshop by briefing basic command line program to create phonebook app. The application was designed to take the input from the command line&lt;br&gt;
+and store in Sqlite3.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/__bangpypers__&#34;&gt;@&lt;strong&gt;bangpypers&lt;/strong&gt;&lt;/a&gt; Few photos from the meetup &lt;a href=&#34;http://t.co/0OMGWJkuoX&#34;&gt;pic.twitter.com/0OMGWJkuoX&lt;/a&gt;&lt;/p&gt;&amp;mdash; BangPypers (@&lt;strong&gt;bangpypers&lt;/strong&gt;) &lt;a href=&#34;https://twitter.com/__bangpypers__/status/602399991542353920&#34;&gt;May 24, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Topics covered where&lt;br&gt;
+- How to use unittest module&lt;br&gt;
+- How to use py.test and why py.test&lt;br&gt;
+- Writing simple functions as testcases&lt;br&gt;
+- Using different py.test command line features&lt;br&gt;
+- Capturing stdout with py.test&lt;br&gt;
+- Setting fixtures with py.test&lt;br&gt;
+- Writing Test classes which py.test can pick&lt;br&gt;
+- Using pytest.fixture&lt;br&gt;
+- Running specific test module/class/function etc &amp;hellip;&lt;br&gt;
+- Writing setup and teardown in pytest style&lt;br&gt;
+- How to mock expensive resources like network call, System Call.&lt;br&gt;
+- Patching modules/functions/classes.&lt;br&gt;
+- How to use Stubs/Fakes.&lt;/p&gt;
+
+&lt;p&gt;Content for the workshop is available in &lt;a href=&#34;https://github.com/kracekumar/UTFT&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Kudos for participanst making the workshop great, please take 10 seconds to fill the &lt;a href=&#34;https://docs.google.com/forms/d/1R6DmZc_4IfcLpR4WEJLRBaYfanl3vJb3aG4fh6Dl7lg/viewform&#34;&gt;feedback&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for Red Hat for providing the space.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>May 2015 Dev Sprint report</title>
+                <link rel="alternate" href="/blog/2015/05/16/may-dev-sprint/" type="text/html" />
+                <id>/blog/2015/05/16/may-dev-sprint/</id>
+                <updated>2015-05-16T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/183466652/&#34;&gt;May BangPypers Dev Sprint&lt;/a&gt; happened at the &lt;a href=&#34;http://www.thoughtworks.com/&#34;&gt;ThoughtWorks&lt;/a&gt; office in Kormanagala.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/183466652/&#34;&gt;May BangPypers Dev Sprint&lt;/a&gt; happened at the &lt;a href=&#34;http://www.thoughtworks.com/&#34;&gt;ThoughtWorks&lt;/a&gt; office in Kormanagala.&lt;/p&gt;
+
+&lt;p&gt;The agenda was to contribute to open source projects. There were 40 participants. The event started with introduction about Python open source projects and participants. The participants were mix of beginners and experienced contributors. We had 4 mentors &lt;a href=&#34;https://twitter.com/arocks&#34;&gt;Arun Ravindran&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt;, &lt;a href=&#34;https://github.com/hargup&#34;&gt;Harsh Gupta&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Krace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;List of projects at &lt;a href=&#34;https://twitter.com/hashtag/DevSprint?src=hash&#34;&gt;#DevSprint&lt;/a&gt; &lt;a href=&#34;https://twitter.com/__bangpypers__&#34;&gt;@&lt;strong&gt;bangpypers&lt;/strong&gt;&lt;/a&gt; &lt;a href=&#34;http://t.co/RteoLl4NV1&#34;&gt;pic.twitter.com/RteoLl4NV1&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sivasubramaniam A (@sivaa_in) &lt;a href=&#34;https://twitter.com/sivaa_in/status/599450448236425216&#34;&gt;May 16, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Lot of pull requests were sent, new issues were created and learnings. Following are few&lt;br&gt;
+- &lt;a href=&#34;https://github.com/sympy/sympy/pull/9405&#34;&gt;https://github.com/sympy/sympy/pull/9405&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/arocks/edge/pull/26&#34;&gt;https://github.com/arocks/edge/pull/26&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/arocks/edge/commit/5ab8cc119e79236d4e3d26010a7ec06ecc91f3c1&#34;&gt;https://github.com/arocks/edge/commit/5ab8cc119e79236d4e3d26010a7ec06ecc91f3c1&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/arocks/edge/commit/768644e8ee63bd923020a4228d1f3c5fdf2d1c20&#34;&gt;https://github.com/arocks/edge/commit/768644e8ee63bd923020a4228d1f3c5fdf2d1c20&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/arocks/edge/commit/5ce650cf78ad6f5388fe126a08c2338e161bdf7f&#34;&gt;https://github.com/arocks/edge/commit/5ce650cf78ad6f5388fe126a08c2338e161bdf7f&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/pull/251&#34;&gt;https://github.com/pythonindia/junction/pull/251&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/pull/249&#34;&gt;https://github.com/pythonindia/junction/pull/249&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/pull/248&#34;&gt;https://github.com/pythonindia/junction/pull/248&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/pull/244&#34;&gt;https://github.com/pythonindia/junction/pull/244&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/pull/243&#34;&gt;https://github.com/pythonindia/junction/pull/243&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/pull/245&#34;&gt;https://github.com/pythonindia/junction/pull/245&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/pull/246&#34;&gt;https://github.com/pythonindia/junction/pull/246&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/pull/247&#34;&gt;https://github.com/pythonindia/junction/pull/247&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/pull/250&#34;&gt;https://github.com/pythonindia/junction/pull/250&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/issues/252&#34;&gt;https://github.com/pythonindia/junction/issues/252&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/pythonindia/junction/issues/242&#34;&gt;https://github.com/pythonindia/junction/issues/242&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://github.com/waartaa/pyirc&#34;&gt;https://github.com/waartaa/pyirc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There were few more projects where participants started but were unable to&lt;br&gt;
+send the pull request.&lt;/p&gt;
+
+&lt;p&gt;Few tweets/photos by participants and mentors&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Met a lot of wonderful ppl at Dev Sprint. Thanks to everyone who worked on Django Edge and sent PRs &lt;a href=&#34;https://twitter.com/__bangpypers__&#34;&gt;@&lt;strong&gt;bangpypers&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&amp;mdash; Arun Ravindran (@arocks) &lt;a href=&#34;https://twitter.com/arocks/status/599583623675707392&#34;&gt;May 16, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Dev Sprint Update: Closed 4 issues of Django Edge so far. Working on moving docs to Read The Docs&lt;/p&gt;&amp;mdash; Arun Ravindran (@arocks) &lt;a href=&#34;https://twitter.com/arocks/status/599495784892010496&#34;&gt;May 16, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Edge is being mentored by &lt;a href=&#34;https://twitter.com/arocks&#34;&gt;@arocks&lt;/a&gt; &lt;a href=&#34;https://twitter.com/__bangpypers__&#34;&gt;@&lt;strong&gt;bangpypers&lt;/strong&gt;&lt;/a&gt; &lt;a href=&#34;http://t.co/iZxwnT1OEm&#34;&gt;pic.twitter.com/iZxwnT1OEm&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sivasubramaniam A (@sivaa_in) &lt;a href=&#34;https://twitter.com/sivaa_in/status/599451165420466176&#34;&gt;May 16, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Harsh Gupta &lt;a href=&#34;https://twitter.com/hargup13&#34;&gt;@hargup13&lt;/a&gt; is mentoring for SymPy. &lt;a href=&#34;http://t.co/LjKat4PrVC&#34;&gt;pic.twitter.com/LjKat4PrVC&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sivasubramaniam A (@sivaa_in) &lt;a href=&#34;https://twitter.com/sivaa_in/status/599451643973795842&#34;&gt;May 16, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;MDN is being mentoring by &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;@chowdhury_sayan&lt;/a&gt; &lt;a href=&#34;http://t.co/pXhXUUv3Mb&#34;&gt;pic.twitter.com/pXhXUUv3Mb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sivasubramaniam A (@sivaa_in) &lt;a href=&#34;https://twitter.com/sivaa_in/status/599452344477097984&#34;&gt;May 16, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Karthik is working on psutil porting to OSX &lt;a href=&#34;https://twitter.com/hashtag/DevSprint?src=hash&#34;&gt;#DevSprint&lt;/a&gt; &lt;a href=&#34;https://twitter.com/__bangpypers__&#34;&gt;@&lt;strong&gt;bangpypers&lt;/strong&gt;&lt;/a&gt; &lt;a href=&#34;http://t.co/hOlh6GXLXg&#34;&gt;pic.twitter.com/hOlh6GXLXg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sivasubramaniam A (@sivaa_in) &lt;a href=&#34;https://twitter.com/sivaa_in/status/599454532662231040&#34;&gt;May 16, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Anand and &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;@kracetheking&lt;/a&gt; are mentoring Junction. &lt;a href=&#34;https://twitter.com/hashtag/DevSprint?src=hash&#34;&gt;#DevSprint&lt;/a&gt; &lt;a href=&#34;https://twitter.com/__bangpypers__&#34;&gt;@&lt;strong&gt;bangpypers&lt;/strong&gt;&lt;/a&gt; &lt;a href=&#34;http://t.co/iR6q6EK2Na&#34;&gt;pic.twitter.com/iR6q6EK2Na&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sivasubramaniam A (@sivaa_in) &lt;a href=&#34;https://twitter.com/sivaa_in/status/599454881418579968&#34;&gt;May 16, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Few photos are available in our &lt;a href=&#34;http://www.meetup.com/BangPypers/photos/26124099/&#34;&gt;meetup page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for ThoughtWorks for offering the space, food, snacks.&lt;br&gt;
+Big kudos to mentors, participants to making the event fun.&lt;/p&gt;
+
+&lt;p&gt;We also have a &lt;a href=&#34;https://mail.python.org/mailman/listinfo/bangpypers&#34;&gt;mailing list&lt;/a&gt; where discussion happens about Python.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>April 2015 Meetup report</title>
+                <link rel="alternate" href="/blog/2015/04/25/april-meetup-report/" type="text/html" />
+                <id>/blog/2015/04/25/april-meetup-report/</id>
+                <updated>2015-04-25T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/178049472/&#34;&gt;April BangPypers meetup&lt;/a&gt; happened at IBM, Domlur. This time we had 4 talks from 10:30AM to 1.10PM.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/178049472/&#34;&gt;April BangPypers meetup&lt;/a&gt; happened at IBM, Domlur. This time we had 4 talks from 10:30AM to 1.10PM.&lt;/p&gt;
+
+&lt;p&gt;40+ people attended the talks. The first talk was about Enough iPython For Everyday Programming by &lt;a href=&#34;https://github.com/chillaranand&#34;&gt;Anand Reddy Pandikunta&lt;/a&gt;.&lt;br&gt;
+The talk covered various IPython features, integration with Emacs etc &amp;hellip; There were lot of interaction from participants. Here is the link to&lt;br&gt;
+&lt;a href=&#34;https://chillaranand.github.io/everyday-ipython/&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Second talk was by &lt;a href=&#34;http://www.meetup.com/BangPypers/members/88215412/&#34;&gt;Bargava&lt;/a&gt; and Ragotham about plotting libraries in Python. The talk provoked lot of interesting discussions.&lt;/p&gt;
+
+&lt;p&gt;Third talk was by &lt;a href=&#34;http://www.meetup.com/BangPypers/members/183048018/&#34;&gt;Anirudh&lt;/a&gt; about Basics of NLP. The slides for the talk can&lt;br&gt;
+found in &lt;a href=&#34;https://www.slideshare.net/slideshow/embed_code/key/117X3Xe6lKRs0n&#34;&gt;slideshare&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Last talk was by &lt;a href=&#34;https://twitter.com/arocks&#34;&gt;Arun Ravindran&lt;/a&gt; about Emacs and Python. There were lot of Emacs users in our meetups :-)&lt;br&gt;
+Presentation was in org mode and &lt;a href=&#34;https://gist.github.com/arocks/2db1cc3d8c17b451d92a&#34;&gt;markdown version&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There were lot of discussions during and after talks. Thanks for all speakers, participants and IBM for hosting the event.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>March 2015 Meetup report</title>
+                <link rel="alternate" href="/blog/2015/03/21/march-meetup-report/" type="text/html" />
+                <id>/blog/2015/03/21/march-meetup-report/</id>
+                <updated>2015-03-21T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/177630452/&#34;&gt;March BangPypers meetup&lt;/a&gt; happened at ZeOmega in Banasvadi. This time we had a total of 2 talks from 10:30AM to 2.00PM.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/177630452/&#34;&gt;March BangPypers meetup&lt;/a&gt; happened at ZeOmega in Banasvadi. This time we had a total of 2 talks from 10:30AM to 2.00PM.&lt;/p&gt;
+
+&lt;p&gt;40+ people attended the talks. The first talk was about Experience of building desktop apps with WxPython by &lt;a href=&#34;http://www.meetup.com/BangPypers/members/184302679/&#34;&gt;Sayantan Bhattacharya&lt;/a&gt;. The talk covered various topics on WxPython and  do&amp;#39;s and don&amp;#39;ts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11022864_1449545332003837_195444819_n.jpg&#34; alt=&#34;photo1&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Second talk was by &lt;a href=&#34;https://twitter.com/skeptichacker/&#34;&gt;Anand B Pillai&lt;/a&gt; about Gotchas in Python. The talk covered gotchas in floating numbers, mutable variables, class variables, instance variables, methods, functions etc &amp;hellip; It was great interaction from participants.&lt;/p&gt;
+
+&lt;p&gt;This session went for two hours and workshop content can be used downloaded from &lt;a href=&#34;http://library.anvetsu.com/f/74471a703f/&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
+In case if you would like to use the material you need to seek permission from Anand.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11033007_857758257616195_352235860_n.jpg&#34; alt=&#34;photo2&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;We would like to thank ZeOmega for sponsoring the venue. Big kudos for speakers and participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://igcdn-photos-a-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/10684361_473484436131928_1050581264_n.jpg&#34; alt=&#34;photo3&#34;&gt;&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>Feburary 2015 Meetup report</title>
+                <link rel="alternate" href="/blog/2015/02/21/feb-meetup-report/" type="text/html" />
+                <id>/blog/2015/02/21/feb-meetup-report/</id>
+                <updated>2015-02-21T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/177630412/&#34;&gt;Feburary Bangpypers meetup&lt;/a&gt; happened at the IBM accelerator, EGL, Domlur. This time we had a total of 3 talks from 10:30AM to 12:45PM.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/177630412/&#34;&gt;Feburary Bangpypers meetup&lt;/a&gt; happened at the IBM accelerator, EGL, Domlur. This time we had a total of 3 talks from 10:30AM to 12:45PM.&lt;/p&gt;
+
+&lt;p&gt;41 people attended the talks. The first talk &lt;a href=&#34;https://chillaranand.github.io/emacs-py-ide/&#34;&gt;Emacs as Python IDE&lt;/a&gt; by&lt;br&gt;
+&lt;a href=&#34;https://github.com/chillaranand/&#34;&gt;Anand&lt;/a&gt;. The talk was walk through of different emacs packages which saves&lt;br&gt;
+lot of time while using Emacs. Obviously there were vim users :-). We didn&amp;#39;t have any flame war!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/10990555_438232942995357_88232193_n.jpg&#34; alt=&#34;photo1&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Second talk was by &lt;a href=&#34;http://www.meetup.com/BangPypers/members/94675122/&#34;&gt;Vinayak&lt;/a&gt; about Data analysis using pandas.&lt;br&gt;
+We had hiccup for 15 minutes with laptop, then we resumed the talk. Vinayak gave good introduction about pandas. Lot of audience actively participated in discussion about high level vs low level framework for data analysis and machine learning.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xap1/t51.2885-15/924756_784254468335863_768695691_n.jpg&#34; alt=&#34;photo2&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Last and final talk was about using &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt; with &lt;a href=&#34;http://api.mongodb.org/python/current/&#34;&gt;PyMongo&lt;/a&gt; by &lt;a href=&#34;http://www.meetup.com/BangPypers/members/60869972/&#34;&gt;Kushan&lt;/a&gt;. Talk covered what is document store, how it is different from SQL, comparison of SQL statements and MongoDB statements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh5.googleusercontent.com/K6xWESbvslXgO1Y0xAYJa8rzGFicBpCnzLrSnpWiDJJOxRmVwnJ7jnt0YzHeoDv_E9RzXA=w1896-h888&#34; alt=&#34;photo3&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Few more photos can be found &lt;a href=&#34;https://drive.google.com/folderview?id=0B3vmn780gZJ9fnNNb1dJR2NtVHdOdU5fVTZnZHRMVjB4M0JvNkxDWHIybXVLcUVPOEhneFU&amp;amp;usp=sharing&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We would like to thank IBM for sponsoring the venue and food. Big kudos for speakers and participants.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>January 2015 Meetup report</title>
+                <link rel="alternate" href="/blog/2015/01/24/january-meetup-report/" type="text/html" />
+                <id>/blog/2015/01/24/january-meetup-report/</id>
+                <updated>2015-01-24T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/165153532/&#34;&gt;January Bangpypers meetup&lt;/a&gt; happened at the Goibibo office near Trinity Metro&lt;br&gt;
+Station. This time we had a total of six talks from 10:30AM to 1:15PM.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/165153532/&#34;&gt;January Bangpypers meetup&lt;/a&gt; happened at the Goibibo office near Trinity Metro&lt;br&gt;
+Station. This time we had a total of six talks from 10:30AM to 1:15PM.&lt;/p&gt;
+
+&lt;p&gt;45 people attended the talks. The first talk &lt;a href=&#34;https://github.com/rouseguy/Blaze&#34;&gt;An introduction to faster data&lt;br&gt;
+processing using Blaze&lt;/a&gt; by&lt;br&gt;
+&lt;a href=&#34;https://twitter.com/bargava&#34;&gt;Bargava&lt;/a&gt;. The talk explained the different pros and&lt;br&gt;
+cons of using Blaze for data processing. The next talk Living in Farm and&lt;br&gt;
+Learning Python by &lt;a href=&#34;https://twitter.com/VaibhavMule&#34;&gt;Vaibhav&lt;/a&gt;. Vaibhav talked on his life at Jaaga Study and how&lt;br&gt;
+he leads a disciplined life and thrives to learn something new everyday.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/4I4QT6H.jpg&#34; alt=&#34;photo1&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;After the break, Sushant gave a talk on Writing an Ansible Module. He started&lt;br&gt;
+off with a small introduction to Ansible. Later, he talked on about roles, playbooks and&lt;br&gt;
+tasks in Ansible and how Ansible is the perfect tool for provisioning your&lt;br&gt;
+servers and how easy its to get started with Ansible. The next talk was taken&lt;br&gt;
+by &lt;a href=&#34;https://twitter.com/malikabhishek&#34;&gt;Abhishek&lt;/a&gt; on &lt;a href=&#34;https://github.com/abhimskywalker/heroku-django-template&#34;&gt;Heroku starter&lt;br&gt;
+Template&lt;/a&gt;. He gave a demonstration of a&lt;br&gt;
+minimalistic template he wrote for starting off with a Django project and&lt;br&gt;
+deploying it to Heroku.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/pr9cfya.jpg&#34; alt=&#34;photo2&#34;&gt;&lt;br&gt;
+&lt;a href=&#34;https://twitter.com/jaseemabid&#34;&gt;Jaseem&lt;/a&gt; explained the library named&lt;br&gt;
+&lt;a href=&#34;https://github.com/Pylons/colander&#34;&gt;Colander&lt;/a&gt;. He explained the main components&lt;br&gt;
+of Colander - serialization, de-serialization and validation. He also demoed a&lt;br&gt;
+few examples on how trivial its to do validation in Colander. The last talk&lt;br&gt;
+was by Sriram on &lt;a href=&#34;http://robotframework.org/&#34;&gt;Robot Framework&lt;/a&gt;. He discussed on how to automate the&lt;br&gt;
+process of testing using the Robot Framework.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/XqslRGb.jpg&#34; alt=&#34;photo3&#34;&gt;&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>Thank you 2014</title>
+                <link rel="alternate" href="/blog/2014/12/31/thank-you-2014/" type="text/html" />
+                <id>/blog/2014/12/31/thank-you-2014/</id>
+                <updated>2014-12-31T09:25:00Z</updated>
+                
+                <summary type="html">2014 was great year for BangPypers. We had workshops, talks and dev sprints.&lt;br&gt;
+Thanks for all our sponsors.&lt;br&gt;
+- &lt;a href=&#34;apigee.com&#34;&gt;ApiGee&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;linkedin.com&#34;&gt;LinkedIn&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://www.akamai.com/&#34;&gt;Akamai&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://www.intuit.in/&#34;&gt;Intuit&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://www.zeomega.com/&#34;&gt;ZeOmega&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://www.inmobi.com/&#34;&gt;InMobi&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://bangthetable.in/&#34;&gt;Bang The Table&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://pssi.org.in&#34;&gt;PSSI&lt;/a&gt;.</summary>
+                <content type="html">&lt;p&gt;2014 was great year for BangPypers. We had workshops, talks and dev sprints.&lt;br&gt;
+Thanks for all our sponsors.&lt;br&gt;
+- &lt;a href=&#34;apigee.com&#34;&gt;ApiGee&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;linkedin.com&#34;&gt;LinkedIn&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://www.akamai.com/&#34;&gt;Akamai&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://www.intuit.in/&#34;&gt;Intuit&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://www.zeomega.com/&#34;&gt;ZeOmega&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://www.inmobi.com/&#34;&gt;InMobi&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://bangthetable.in/&#34;&gt;Bang The Table&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;http://pssi.org.in&#34;&gt;PSSI&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for all our speakers and mentors&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;Haris&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/skeptichacker&#34;&gt;Anand B Pillai&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/jaseemabid&#34;&gt;Jaseem&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/baijum&#34;&gt;Baiju&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/finiterecursion&#34;&gt;Arun&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/sanketsaurav&#34;&gt;Sanket&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/vigneshsarma&#34;&gt;Vignesh Sarma&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://twitter.com/elvisds&#34;&gt;Elvis&lt;/a&gt;,&lt;br&gt;
+- &lt;a href=&#34;http://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Complete list of 2014 event details can be found in the &lt;a href=&#34;http://bangalore.python.org.in/archives/2014/&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, a big thanks for all participants :-). See you all in 2015!&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>December 2014 Dev Sprint report</title>
+                <link rel="alternate" href="/blog/2014/12/20/december-dev-sprint-report/" type="text/html" />
+                <id>/blog/2014/12/20/december-dev-sprint-report/</id>
+                <updated>2014-12-20T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/160108032/&#34;&gt;December BangPypers meetup&lt;/a&gt; happened at the &lt;a href=&#34;http://apigee.com/about/&#34;&gt;APIGee&lt;/a&gt; office in Kormanagala. This time we didn&amp;#39;t have workshops or talks but dev sprint.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/160108032/&#34;&gt;December BangPypers meetup&lt;/a&gt; happened at the &lt;a href=&#34;http://apigee.com/about/&#34;&gt;APIGee&lt;/a&gt; office in Kormanagala. This time we didn&amp;#39;t have workshops or talks but dev sprint.&lt;/p&gt;
+
+&lt;p&gt;The agenda was to contribute to open source projects. There were 53 participants. The event started with introduction about projects participants would like to work on. The participants were mix of beginners and experienced contributors. We had 5 mentors, &lt;a href=&#34;http://muthukadan.net/&#34;&gt;Baiju&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt;, &lt;a href=&#34;https://github.com/sivaa&#34;&gt;Siva&lt;/a&gt;, &lt;a href=&#34;https://github.com/elvisds&#34;&gt;Elvis&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Krace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-ZlbjX7CSRvs/VJV1qTaCAkI/AAAAAAAAF3U/gdj1owCaAUs/w958-h637-no/DSC00447.JPG&#34; alt=&#34;photo1&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Participants worked on following open source projects &lt;a href=&#34;https://github.com/nibrahim/cpslib&#34;&gt;CPSLib&lt;/a&gt;, &lt;a href=&#34;https://github.com/klpdotorg/dubdubdub/&#34;&gt;dubdubdub&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&#34;https://github.com/xiaocong/uiautomator&#34;&gt;uiautomator&lt;/a&gt;, &lt;a href=&#34;https://github.com/fedora-infra/fmn&#34;&gt;fedora-infra&lt;/a&gt;, &lt;a href=&#34;https://github.com/subh007/SDNPyViz&#34;&gt;Network Visualization&lt;/a&gt;, &lt;a href=&#34;https://github.com/hargup/gene-simulation&#34;&gt;genetic-drift&lt;/a&gt;, &lt;a href=&#34;https://github.com/sopython/nidaba&#34;&gt;nidaba&lt;/a&gt;, &lt;a href=&#34;https://github.com/pythonindia/junction&#34;&gt;Junction&lt;/a&gt;, &lt;a href=&#34;https://github.com/mitra-varuna/pelican-pyembed&#34;&gt;pelican-pyembed&lt;/a&gt;, &lt;a href=&#34;https://github.com/pythonindia/pssi.org.in&#34;&gt;pssi&lt;/a&gt;, &lt;a href=&#34;https://github.com/elvisds/gridic&#34;&gt;gridic&lt;/a&gt;, &lt;a href=&#34;https://github.com/crsmithdev/arrow&#34;&gt;arrow&lt;/a&gt;, &lt;a href=&#34;https://github.com/bitly/pynsq/&#34;&gt;pynsq&lt;/a&gt;, &lt;a href=&#34;https://github.com/rtnpro/rpmdev-assistant&#34;&gt;rpmdev-assistant&lt;/a&gt;, &lt;a href=&#34;https://github.com/drunken-pypers/cloudlynt&#34;&gt;cloudlynt&lt;/a&gt;. The mentors helped some participants to send their first pull request!&lt;/p&gt;
+
+&lt;p&gt;The participants were excited to see demo by &lt;a href=&#34;https://github.com/elvisds&#34;&gt;Elvis&lt;/a&gt;, a note/time grid that helps create small fragments of music.&lt;br&gt;
+Here is a list of pull requests and commits by participants (not in any order)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bitly/pynsq/pull/113&#34;&gt;https://github.com/bitly/pynsq/pull/113&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/elvisds/gridic/commits/master&#34;&gt;https://github.com/elvisds/gridic/commits/master&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sopython/nidaba/pull/38&#34;&gt;https://github.com/sopython/nidaba/pull/38&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/crsmithdev/arrow/pull/184&#34;&gt;https://github.com/crsmithdev/arrow/pull/184&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pythonindia/pssi.org.in/pull/54&#34;&gt;https://github.com/pythonindia/pssi.org.in/pull/54&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jaseemabid/act-chrome-extension/pull/3&#34;&gt;https://github.com/jaseemabid/act-chrome-extension/pull/3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pythonindia/junction/pull/21&#34;&gt;https://github.com/pythonindia/junction/pull/21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mitra-varuna/pelican-pyembed/commits/master&#34;&gt;https://github.com/mitra-varuna/pelican-pyembed/commits/master&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pythonindia/junction/pull/16&#34;&gt;https://github.com/pythonindia/junction/pull/16&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pythonindia/junction/pull/20&#34;&gt;https://github.com/pythonindia/junction/pull/20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hargup/gene-simulation/commits/master&#34;&gt;https://github.com/hargup/gene-simulation/commits/master&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/subh007/SDNPyViz/commits/master&#34;&gt;https://github.com/subh007/SDNPyViz/commits/master&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/drunken-pypers/cloudlynt/commits/master&#34;&gt;https://github.com/drunken-pypers/cloudlynt/commits/master&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nibrahim/cpslib/commit/f6c00f0652e4143ebd07d7d9edff55a5722d6192&#34;&gt;https://github.com/nibrahim/cpslib/commit/f6c00f0652e4143ebd07d7d9edff55a5722d6192&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Comments by participants can be found in &lt;a href=&#34;http://www.meetup.com/BangPypers/events/160108032/&#34;&gt;meetup page&lt;/a&gt;.&lt;br&gt;
+&lt;img src=&#34;https://lh5.googleusercontent.com/-yhaxNp1BaHM/VJV4h-HHEeI/AAAAAAAAF40/Yt3VPvhluso/w958-h637-no/DSC00457.JPG&#34; alt=&#34;photo2&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Big thanks for &lt;a href=&#34;http://apigee.com/about/&#34;&gt;APIgee&lt;/a&gt; for sponsoring food and venue for the meetup and &lt;a href=&#34;https://pssi.org.in&#34;&gt;pssi&lt;/a&gt; for sponsoring the t-shirt. Complete photos of the event can be found in &lt;a href=&#34;https://plus.google.com/photos/112420258095319874956/albums/6094906363431148209&#34;&gt;G+ page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We also have a &lt;a href=&#34;https://mail.python.org/mailman/listinfo/bangpypers&#34;&gt;mailing list&lt;/a&gt; where discussion happens about Python.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>November 2014 Meetup report</title>
+                <link rel="alternate" href="/blog/2014/11/15/november-meetup-report/" type="text/html" />
+                <id>/blog/2014/11/15/november-meetup-report/</id>
+                <updated>2014-11-15T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/160108012/&#34;&gt;November BangPypers meetup&lt;/a&gt; happened at the &lt;a href=&#34;http://bangthetable.com/&#34;&gt;Bang The Table&lt;/a&gt; office in Indira Nagar. &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/finiterecursion&#34;&gt;Arun&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Krace&lt;/a&gt; helped the meetup as a volunteer.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/160108012/&#34;&gt;November BangPypers meetup&lt;/a&gt; happened at the &lt;a href=&#34;http://bangthetable.com/&#34;&gt;Bang The Table&lt;/a&gt; office in Indira Nagar. &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/finiterecursion&#34;&gt;Arun&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Krace&lt;/a&gt; helped the meetup as a volunteer.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s been around 6 months, since we conducted Python 101 session. We felt it is good time to conduct one. Without any surprise it was very well received.&lt;/p&gt;
+
+&lt;p&gt;55 people attended the session.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/finiterecursion&#34;&gt;Arun&lt;/a&gt; handled morning session about &lt;code&gt;variables, conditions, loops, strings, functions and list&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;We had a great heavy Indian lunch and &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; resumed the session around 1.45 PM.&lt;br&gt;
+&lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; covered &lt;code&gt;inbuilt functions, dictionary, tuples, files, class, exception handling&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/B2f01XBCIAIboSI.jpg&#34; alt=&#34;photo1&#34;&gt;&lt;br&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/B2f0zy-CYAI2m-v.jpg&#34; alt=&#34;photo2&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;We wrapped the session by 4.00 PM. Ramesh and his friend borrowed &lt;a href=&#34;https://gumroad.com/l/bppWr&#34;&gt;Python 101 book&lt;/a&gt; and &lt;a href=&#34;http://twoscoopspress.org/products/two-scoops-of-django-1-6&#34;&gt;Two Scoops of Django 1.6&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://slides.com/rtnpro/intro-to-python#/15&#34;&gt;Find list of python resources here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Special thanks to &lt;a href=&#34;http://nandajavarma.wordpress.com/&#34;&gt;Nandaja&lt;/a&gt; for being a great help in organizing the event at &lt;a href=&#34;http://bangthetable.com/&#34;&gt;Bang The Table&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We also have a &lt;a href=&#34;https://mail.python.org/mailman/listinfo/bangpypers&#34;&gt;mailing list&lt;/a&gt; where discussion happens about Python.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>October 2014 Meetup report</title>
+                <link rel="alternate" href="/blog/2014/10/19/october-meetup-report/" type="text/html" />
+                <id>/blog/2014/10/19/october-meetup-report/</id>
+                <updated>2014-10-19T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797652/&#34;&gt;October Bangpypers meetup&lt;/a&gt; happened at the InMobi office near Bellandur. &lt;a href=&#34;https://twitter.com/sanketsaurav&#34;&gt;Sanketsaurav&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Krace&lt;/a&gt; helped the meetup as a volunteer.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797652/&#34;&gt;October Bangpypers meetup&lt;/a&gt; happened at the InMobi office near Bellandur. &lt;a href=&#34;https://twitter.com/sanketsaurav&#34;&gt;Sanketsaurav&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Krace&lt;/a&gt; helped the meetup as a volunteer.&lt;/p&gt;
+
+&lt;p&gt;The workshop was focussed on build REST Service using &lt;a href=&#34;https://django-tastypie.readthedocs.org/en/latest/&#34;&gt;TastyPie&lt;/a&gt;. The workshop started at 10.25 and wen t to till 1.45. Sanket explained all the concepts required to build REST service in depth with examples.&lt;/p&gt;
+
+&lt;p&gt;There were about 35 participants for the workshop.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/sanketsaurav/tastypie-tutorial&#34;&gt;Find the content of the workshop here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Special thanks to &lt;a href=&#34;https://twitter.com/iliyas_shirol&#34;&gt;Iliyas Shirol&lt;/a&gt; for being a great help in organizing the event at InMobi.&lt;/p&gt;
+
+&lt;p&gt;We also have a &lt;a href=&#34;https://mail.python.org/mailman/listinfo/bangpypers&#34;&gt;mailing list&lt;/a&gt; where discussion happens about Python.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>August 2014 Meetup report</title>
+                <link rel="alternate" href="/blog/2014/08/22/august-workshop-report/" type="text/html" />
+                <id>/blog/2014/08/22/august-workshop-report/</id>
+                <updated>2014-08-22T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/160107632/&#34;&gt;August Bangpypers meetup&lt;/a&gt; happened at the InMobi office near Bellandur. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt; helped the meetup as a volunteer. After a few initial hiccups of trying to get the projector up and running the session started around 10.30AM and concluded around 1:30PM.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/160107632/&#34;&gt;August Bangpypers meetup&lt;/a&gt; happened at the InMobi office near Bellandur. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt; helped the meetup as a volunteer. After a few initial hiccups of trying to get the projector up and running the session started around 10.30AM and concluded around 1:30PM.&lt;/p&gt;
+
+&lt;iframe src=&#34;/instagram.com/p/sERBoXNT6U/embed/&#34; width=&#34;612&#34; height=&#34;710&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The content was about what all goes into writing a web framework. It was targeted at people who already had some experience with using a framework. Starting off with the very basics oh handling a request and sending a response, the workshop was taken forward step by step.&lt;/p&gt;
+
+&lt;iframe src=&#34;/instagram.com/p/sERYFVNT6v/embed/&#34; width=&#34;612&#34; height=&#34;710&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;There were about 45 participants for the workshop, one of them personally thanking Krace for all the workshops that he had done previously. Apparently after attending them and learning Python, he recently got a Python gig.&lt;/p&gt;
+
+&lt;p&gt;Towards the end, a copy of Two Scoops of Django and Python 101 were circulated among the participants. Some of the participants and organizers hung around to discuss about the upcoming &lt;a href=&#34;http://in.pycon.org&#34;&gt;Python India Conference&lt;/a&gt; and the &lt;a href=&#34;http://pythonexpress.in&#34;&gt;Python Express&lt;/a&gt; initiative.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/kracekumar/pythonbyexamplestutorial/tree/master/august-workshop&#34;&gt;Find the content of the workshop here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Special thanks to &lt;a href=&#34;https://twitter.com/iliyas_shirol&#34;&gt;Iliyas Shirol&lt;/a&gt; for being a great help in organizing the event at InMobi.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>June 2014 bangpypers talk report</title>
+                <link rel="alternate" href="/blog/2014/06/22/june-talks-report/" type="text/html" />
+                <id>/blog/2014/06/22/june-talks-report/</id>
+                <updated>2014-06-22T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/184903022/&#34;&gt;June Bangpypers talk&lt;/a&gt; happened at the Apigee, Koramangala. After 6 months we had talks! Talks started at 3.00 PM and ended at 5.00 PM.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/184903022/&#34;&gt;June Bangpypers talk&lt;/a&gt; happened at the Apigee, Koramangala. After 6 months we had talks! Talks started at 3.00 PM and ended at 5.00 PM.&lt;/p&gt;
+
+&lt;p&gt;25 people attended the talks. There  were two talks. First talk was &lt;a href=&#34;https://gist.github.com/kracekumar/09a60ec75a4de19b346e&#34;&gt;writing better python code&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt;. The talk took few badly written python code and showed how to make the code better. Talk went for 40 minutes. Second talk was &lt;a href=&#34;https://gist.github.com/vigneshsarma/bf5f664d8d053890e5f7&#34;&gt;What is magic methods&lt;/a&gt; by &lt;a href=&#34;https://gist.github.com/vigneshsarma&#34;&gt;Vignesh sarma&lt;/a&gt;. This was an excellent talk covering &lt;code&gt;__len__&lt;/code&gt; and other magic methods. Talk went for 50 minutes.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>June 2014 Workshop report</title>
+                <link rel="alternate" href="/blog/2014/06/22/june-workshop-report/" type="text/html" />
+                <id>/blog/2014/06/22/june-workshop-report/</id>
+                <updated>2014-06-22T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797682//&#34;&gt;June Bangpypers workshop&lt;/a&gt; happened at the Apigee office, Koramangala. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt; came forward as volunteer. The session started at 10:30AM and concluded around 1:30PM.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797682//&#34;&gt;June Bangpypers workshop&lt;/a&gt; happened at the Apigee office, Koramangala. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt; came forward as volunteer. The session started at 10:30AM and concluded around 1:30PM.&lt;/p&gt;
+
+&lt;p&gt;The workshop covered following topics&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Classes&lt;/li&gt;
+&lt;li&gt;Inheritance&lt;/li&gt;
+&lt;li&gt;Composition&lt;/li&gt;
+&lt;li&gt;Unit Testing&lt;/li&gt;
+&lt;li&gt;Class methods&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Find the exercises and solutions used for the workshop here: &lt;a href=&#34;https://github.com/kracekumar/pythonbyexamplestutorial/tree/master/june-workshop&#34;&gt;https://github.com/kracekumar/pythonbyexamplestutorial/tree/master/june-workshop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As was the case for the past couple of meetups, 47 people attended. The workshop covered quite advanced topics like classmethods. The workshop was hands on where participants developed contact book application.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>May 2014 Meetup report</title>
+                <link rel="alternate" href="/blog/2014/05/17/may-meetup-report/" type="text/html" />
+                <id>/blog/2014/05/17/may-meetup-report/</id>
+                <updated>2014-05-17T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797672/&#34;&gt;May Bangpypers meetup&lt;/a&gt; happened at the Intuit office near Bellandur. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;Haris Ibrahim K V&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan Chowdhury&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt; came forward as volunteers. The session started at 10:30AM and concluded around 4:30PM. Following this, we had the volunteers meeting for &lt;a href=&#34;http://in.pycon.org/2014/&#34;&gt;InPycon&lt;/a&gt; for which a few of the participants joined in as well.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797672/&#34;&gt;May Bangpypers meetup&lt;/a&gt; happened at the Intuit office near Bellandur. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; facilitated the workshop. &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;Haris Ibrahim K V&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan Chowdhury&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt; came forward as volunteers. The session started at 10:30AM and concluded around 4:30PM. Following this, we had the volunteers meeting for &lt;a href=&#34;http://in.pycon.org/2014/&#34;&gt;InPycon&lt;/a&gt; for which a few of the participants joined in as well.&lt;/p&gt;
+
+&lt;p&gt;The meetup was organized as a continuation to last month&amp;#39;s beginner-level problem-solving Python workshop. As such, it focused on the following intermediate topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Passing functions as arguments to functions&lt;/li&gt;
+&lt;li&gt;Decorators&lt;/li&gt;
+&lt;li&gt;Introduction to classes&lt;/li&gt;
+&lt;li&gt;Inheritance&lt;/li&gt;
+&lt;li&gt;Recursion&lt;/li&gt;
+&lt;li&gt;Unit Testing&lt;/li&gt;
+&lt;li&gt;Installing third party libraries&lt;/li&gt;
+&lt;li&gt;Using standard library and third party libraries&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Find the exercises and solutions used for the workshop here: &lt;a href=&#34;https://github.com/kracekumar/pythonbyexamplestutorial&#34;&gt;https://github.com/kracekumar/pythonbyexamplestutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As was the case for the past couple of meetups, 50 people attended. The entire cafeteria got occupied and we had to pull in chairs around the area to accommodate those few who were late to join the party. Krace started off by doing a quick recap of what was covered during the last meetup. Making sure everyone was on the same page, he jumped into functions. Slowly building upon one function after the other, he hand held the crowd to be prepared for the scarier parts that were to follow.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;Full house for bangpypers workshop at intuit. 50 people turned up. / &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;@kracetheking&lt;/a&gt; &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;@chowdhury_sayan&lt;/a&gt; &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;@harisibrahimkv&lt;/a&gt; &lt;a href=&#34;http://t.co/xcET4Yekp3&#34;&gt;pic.twitter.com/xcET4Yekp3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sivasubramaniam A (@sivaa_in) &lt;a href=&#34;https://twitter.com/sivaa_in/statuses/467553935012540416&#34;&gt;May 17, 2014&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;By the time decorators came into the picture, everyone had their brains working high. After giving a quick peek, lunch was served around 1:00PM. In spite of the 1 hour lunch break, surprisingly, everyone finished off the Subway Burrito in a hurry, took a swing of the Mango Juice served along with it, and were ready by 1:30PM for the session to continue. Fed and their brain&amp;#39;s chugging, we continued with decorators at 1:45PM.&lt;/p&gt;
+
+&lt;p&gt;Just before getting started, there was a special announcement. &lt;a href=&#34;https://twitter.com/pydanny&#34;&gt;Daniel Roy Greenfeld&lt;/a&gt;, the co-author of Two Scoops of Django, had donated a copy of the new edition of his book to Bangpypers. We decided that the best way for the community to use the book would be to pass it on from person to person every month. Upon collectively agreeing to this norm, the book was awarded to its first keeper, &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt;. Hopefully, the mantle will be passed on during each meetup from now on.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;Thank you &lt;a href=&#34;https://twitter.com/pydanny&#34;&gt;@pydanny&lt;/a&gt; for giving two scoops to bangpypers. The mantle is with &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;@sivaa_in&lt;/a&gt; to begin with. &lt;a href=&#34;http://t.co/J3nCeDwlER&#34;&gt;pic.twitter.com/J3nCeDwlER&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kracekumar (@kracetheking) &lt;a href=&#34;https://twitter.com/kracetheking/statuses/467723073991352320&#34;&gt;May 17, 2014&lt;/a&gt;&lt;/blockquote&gt;&lt;br&gt;
+&lt;script async src=&#34;/platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Finishing one part after the other, Krace made writing tests a parallel task from the beginning onwards. Giving a rock solid explanation on classes and its use, the workshop was concluded by 4:30PM. There were bonds strengthened, new friends made and good will spread around among the Puys all through the day. We shook hands and left, impatiently waiting for the next gathering.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>April 2014 Meetup report</title>
+                <link rel="alternate" href="/blog/2014/04/19/april-meetup-report/" type="text/html" />
+                <id>/blog/2014/04/19/april-meetup-report/</id>
+                <updated>2014-04-19T09:25:00Z</updated>
+                
+                <summary type="html">51 Puys! The greatest turnout yet. There was not event one chair left unoccupied in the hall. The enthusiasm of such a large crowd does give us all a hint about the demand in the industry for beginner level Python training. With the organizer, &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; himself facilitating the workshop, the in-depth beginner level session was received by the crowd with much appreciation. The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/171450392/&#34;&gt;April Bangpypers meetup&lt;/a&gt; happened at the Akamai office near Bellandur. &lt;a href=&#34;https://twitter.com/k4rtik&#34;&gt;Kartik&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;Haris&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; came forward as volunteers. The session started at 10:30AM and concluded around 6:00PM.</summary>
+                <content type="html">&lt;p&gt;51 Puys! The greatest turnout yet. There was not event one chair left unoccupied in the hall. The enthusiasm of such a large crowd does give us all a hint about the demand in the industry for beginner level Python training. With the organizer, &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; himself facilitating the workshop, the in-depth beginner level session was received by the crowd with much appreciation. The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/171450392/&#34;&gt;April Bangpypers meetup&lt;/a&gt; happened at the Akamai office near Bellandur. &lt;a href=&#34;https://twitter.com/k4rtik&#34;&gt;Kartik&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;Haris&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; came forward as volunteers. The session started at 10:30AM and concluded around 6:00PM.&lt;/p&gt;
+
+&lt;p&gt;Kicking off the workshop by getting to know the crowd better, Krace quickly got into the exercises, thereby getting everyone hands-on. The workshop was structured as a series of exercises in folder, along with their respective solutions in another. The material was shared in advance with the audience. The instructor went over each exercise (which were separated into individual files) by first demoing the concept using the Python interpreter and then letting the audience try it out within the file. You can find the course content comprising of the exercises and solutions &lt;a href=&#34;https://github.com/kracekumar/pythonbyexamplestutorial&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src=&#34;/instagram.com/p/m-BXqkrQVC/embed/&#34; width=&#34;612&#34; height=&#34;710&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The session was riddled with questions from the participants. Being a man of patience, Krace took all of them, refined them and gave a solid explanation along with all the answers. We broke for lunch at about 1:30PM. Akamai was generous enough to sponsor huge mean boxes consisting of rice, curries, sweets and a pack of juice. We wrapped up luch by 2:30PM, at the point which Akamai gave us a short demo of their world wide service. All of us were taken into a room that resembled the cockpit of a spaceship where on a huge screen, you could see the globe rotating, having streaks of green and yellow depicting Akamai&amp;#39;s realtime traffic, which apparently consisted of 40% of the world&amp;#39;s!&lt;/p&gt;
+
+&lt;p&gt;The workshop resumed at 2:45PM, continuing from list, dictionaries, list &amp;amp; dictionary comprehensions to files, error handling and standard libraries. The session covered all these and went on till about 6:00PM. Although that was more than the estimated time, the audience did not have the slightest of problems with the delay, due to the excellent workshop. Krace, having imparted the best practices, basic Python knowledge as well as the idiomatic approach to writing Python code, concluded his session by pointing them at other resources which they could follow up with as exercises.&lt;/p&gt;
+
+&lt;p&gt;At around 6:15, all of us parted, exchanging good-byes and wishing each other to meet within another month!&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>March 2014 Meetup report</title>
+                <link rel="alternate" href="/blog/2014/03/15/march-meetup-report/" type="text/html" />
+                <id>/blog/2014/03/15/march-meetup-report/</id>
+                <updated>2014-03-15T09:25:00Z</updated>
+                
+                <summary type="html">&amp;ldquo;Writing tests is an absolute waste of time&amp;rdquo;, some of them say.</summary>
+                <content type="html">&lt;p&gt;&amp;ldquo;Writing tests is an absolute waste of time&amp;rdquo;, some of them say.&lt;/p&gt;
+
+&lt;p&gt;Well, we do not think so. The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797622/&#34;&gt;March Bangpypers meetup&lt;/a&gt; was a hands on workshop covering TDD with Django. Just like last time, an enthusiastic crowd of 42 attended the session. It was held at the Apigee office in Koramangala. Facilitated by &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt;, the session started at around 10:30AM and went on till 3:30PM. Unlike the previous sessions, &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; was the only volunteer to help the participants.&lt;/p&gt;
+
+&lt;p&gt;The workshop started by telling everyone the importance of writing tests, the concept and theory of Test Driven Development and how it could help one tremendously while writing code. Although a bit hectic at first, it is a practice that would certainly pay off when it comes to catching the bugs in your code before it is deployed in production. &lt;a href=&#34;https://github.com/sivaa/django-tdd&#34;&gt;The Repo and the session notes can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The session focussed on using &lt;strong&gt;selenium&lt;/strong&gt; for writing functional tests and the Python &lt;strong&gt;unittest&lt;/strong&gt; library for writing unit tests. As you can see from the notes, each step was implemented step by step, one at a time making sure that the crowd was following along. The functional tests were bundled in a standalone package whereas the unittests were written within the tests.py file of the newly created Django app.&lt;/p&gt;
+
+&lt;p&gt;The concept of writing tests for a piece of code that was not written, was quite alien to almost all the participants. &amp;ldquo;TDD is like martial arts&amp;rdquo;, stated Siva towards the end. &amp;ldquo;You cannot learn it in one day. First you have to go through all the troublesome exercises before getting to the actual kicking and punching part&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Making voluntary, common mistakes in his code, the instructor made the participant experience newbie mistakes that anyone could make. Thereby making them think it through and finding a solution. The well laid out exercise along with the elegant presentation imparted a great deal of knowledge to the attendees.&lt;/p&gt;
+
+&lt;p&gt;The workshop was wrapped up by 3:30PM after which, all of us hungout a bit talking to each other about different technologies and how they compare with each other. Certain participants had a couple of doubts about the session to be clearted who stuck with Siva for a while to get everything cleared.&lt;/p&gt;
+
+&lt;p&gt;By 4:15, all of us were on our ways, waiting to come together once more for the next meetup!&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>February 2014 Meetup report</title>
+                <link rel="alternate" href="/blog/2014/02/15/february-meetup-report/" type="text/html" />
+                <id>/blog/2014/02/15/february-meetup-report/</id>
+                <updated>2014-02-15T09:25:00Z</updated>
+                
+                <summary type="html">Surprisingly, the &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797572/&#34;&gt;February Bangpypers meetup&lt;/a&gt; witnessed a whooping crowd of 46 Puys attending it. The LinkedIN office space where it was being held, had to be modified a little in order to accommodate everyone comfortably. The meetup was in the form a full-day hands on beginner level Python workshop. It was facilitated by &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;Haris Ibrahim K. V.&lt;/a&gt; The agenda was to work through problems, thereby introducing and teaching Python. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; and Souradeep came forward willingly to help the participants out whenever they had any doubt.</summary>
+                <content type="html">&lt;p&gt;Surprisingly, the &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797572/&#34;&gt;February Bangpypers meetup&lt;/a&gt; witnessed a whooping crowd of 46 Puys attending it. The LinkedIN office space where it was being held, had to be modified a little in order to accommodate everyone comfortably. The meetup was in the form a full-day hands on beginner level Python workshop. It was facilitated by &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;Haris Ibrahim K. V.&lt;/a&gt; The agenda was to work through problems, thereby introducing and teaching Python. &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; and Souradeep came forward willingly to help the participants out whenever they had any doubt.&lt;/p&gt;
+
+&lt;p&gt;The workshop, which was supposed to commence at 10:00AM, got delayed by half an hour as people were pouring in one after the other. It started off by teaching everyone to &lt;a href=&#34;https://xkcd.com/353/&#34;&gt;fly with Python&lt;/a&gt; by importing &amp;#39;antigravity&amp;#39;. After the initial gimmick was done with, the customary &amp;ldquo;Hello world&amp;rdquo; program was written, comparing it with the way it would be if this was a beginner Java or C workshop. God forbid.&lt;/p&gt;
+
+&lt;iframe src=&#34;/instagram.com/p/kb9H-KNT4Q/embed/&#34; width=&#34;612&#34; height=&#34;710&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The instructor used a library book storing application as an exercise that was continuously built upon during the duration of the course. He had another set of questions which were used to demonstrate and understand certain specific concepts. The audience had a mix of absolute Python beginners as well as others who had a little bit of experience using it. The willingness to learn along with their warm and friendly nature gave the gathering a pleasant atmosphere both in terms of learning Python as well as interacting during the session.&lt;/p&gt;
+
+&lt;p&gt;The topics covered included:&lt;br&gt;
+* Working with the basic data types&lt;br&gt;
+* Understanding Data structures well such as dictionaries, lists and tuples&lt;br&gt;
+* Control flow statements including if, for loop and while loop&lt;br&gt;
+* Writing functions and understanding parameter passing&lt;br&gt;
+* File IO&lt;br&gt;
+* A short introduction to writing classes&lt;/p&gt;
+
+&lt;p&gt;The workshop finished around 3:30PM. Everyone hung out for a while discussing the various areas where Python was used, the various resources to learn Python from followed by a short talk by LinkedIN on where they were using Python and how. Everyone collected the cool t-shirts LinkedIN was giving away and parted, looking forward to the next meetup.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>January 2014 Meetup report</title>
+                <link rel="alternate" href="/blog/2014/01/18/january-meetup-report/" type="text/html" />
+                <id>/blog/2014/01/18/january-meetup-report/</id>
+                <updated>2014-01-18T09:25:00Z</updated>
+                
+                
+                <content type="html">&lt;h3&gt;Django unchained!&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797552/&#34;&gt;January Bangpypers&lt;/a&gt; meetup happened at the &lt;a href=&#34;http://goo.gl/maps/yFcov&#34;&gt;Apigee office&lt;/a&gt;. The organizers, as a part of trying to improvise and improve the quality of the meetups, decided to do a full day session on using the Python Django framework. The trio of &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;Haris&lt;/a&gt; were burdened with the responsibility of preparing the content and delivering the workshop. Siva put forward the idea of doing the tutorial in a step by step manner. He created the tutorial content on GitHub with a branch for each step. Find the repo &lt;a href=&#34;https://github.com/sivaa/django-workshop&#34;&gt;here&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/k4rtik&#34;&gt;Kartik&lt;/a&gt; accompanied the team to help out the participants.&lt;/p&gt;
+&lt;h2&gt;Workshop&lt;/h2&gt;
+&lt;p&gt;The workshop commenced at 10:30AM with around 25 participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt; kicked off by introducing Django, its features and its structure. He further dived down deep into describing the various settings as well sa workflow possible thereby imparting a solid structure to the participants. He wound up his instroductory session at around 11.15AM.&lt;/p&gt;
+
+&lt;iframe src=&#34;/instagram.com/p/jTKlvGLQTc/embed/&#34; width=&#34;612&#34; height=&#34;710&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Next up, it was &lt;a href=&#34;https://twitter.com/harisibrahimkv&#34;&gt;Haris&lt;/a&gt; who had to handle the first and second tutorials. Enlightening the crowd with the customary &amp;ldquo;Hello World&amp;rdquo; application, he started by explaining how the different parts of a Django project tied together. He explained and demonstrated by giving a hands on session regarding writing a &amp;ldquo;Hello World&amp;rdquo; app. He presented both the approach of directly returning a response as well as using a template in order to render the HTML. He finished off his session in about an hour.&lt;/p&gt;
+
+&lt;iframe src=&#34;/instagram.com/p/jTJWcTrQSI/embed/&#34; width=&#34;612&#34; height=&#34;710&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Just before lunch break, &lt;a href=&#34;https://twitter.com/sivaa_in&#34;&gt;Siva&lt;/a&gt; took the stage and introduced the flow and structure of the third tutorial. Once everyone got the idea of what was coming, the gathering took a break for lunch at 1:00PM and had some awesome pizzas sposored by &lt;a href=&#34;http://apigee.com/about/&#34;&gt;Apigee&lt;/a&gt;. Everyone got back together at 1:45PM and the session commenced. He had explained each step of his tutorial one by one in this &lt;a href=&#34;https://gist.github.com/sivaa/8486393&#34;&gt;gist&lt;/a&gt;. This helped the participants a lot in terms of getting together their bearings once things went too far for them to follow.&lt;/p&gt;
+
+&lt;p&gt;Demoing and giving a hands on workshop covering each step one by one, he imparted a clear view of how Django worked, how they could do useful things and how to carry it on forward. The concept of views, forms, models, templating engine, MVT as well validation were covered with simple but non-trivial examples. He concluded his session by 3.15PM by giving a few advices on best practices to follow.&lt;/p&gt;
+
+&lt;iframe src=&#34;/instagram.com/p/jTTpkFrQaq/embed/&#34; width=&#34;612&#34; height=&#34;710&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Sayan again took the stage in order to explain in detail the admin features as well about the templating. He went on explaining about how the admin would automatically generate fields for all the models written in a particular Django project to how the templating engine works. Its capabilities, features and best practices of using it. He finished off the last part around 4.315PM.&lt;/p&gt;
+
+&lt;p&gt;By this time, the audience were really interested to know more about and around the Python community. They had been really interactive during the workshop, following each line, asking doubts and making sure they learnt whatver was being taught. Towards the end, questions, both related to Django as well as Python started pouring in. It was a wonderful time where the instructors as well as [Krace][], the main organizer, addressed each of their queries one by one.&lt;/p&gt;
+
+&lt;p&gt;Questions regarding flask v/s Django, Django ORM, static files, templating engine, deployment, learning curve and a lot more were asked and discussed. The meeting was adjourned at 5PM and everyone parted to their own ways after exchanging good byes.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>December 2013 Meetup report</title>
+                <link rel="alternate" href="/blog/2013/12/21/december-meetup-report/" type="text/html" />
+                <id>/blog/2013/12/21/december-meetup-report/</id>
+                <updated>2013-12-21T09:25:00Z</updated>
+                
+                <summary type="html">The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797532/&#34;&gt;December Bangpypers&lt;/a&gt; meetup happened at the &lt;a href=&#34;https://www.google.co.in/maps/preview#!q=ThoughtWorks%2C+147%2FF%2C+2nd+Floor%2C+ACR+Mansion%2C+8th+Main+Rd%2C+3rd+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka%2C+560034%2C+Koramangala+3+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka&amp;amp;data=!4m15!2m14!1m13!1s0x3bae14053a4499f5%3A0xe2b2b820791f972d!3m8!1m3!1d228436!2d77.6309395!3d12.9539974!3m2!1i1280!2i705!4f13.1!4m2!3d12.928713!4d77.62889&#34;&gt;ThoughtWorks office&lt;/a&gt;. Instead of just the usual 3 hour meetup, this time, we had a beginner level Python workshop in the morning which almost the same number of people attended.</summary>
+                <content type="html">&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797532/&#34;&gt;December Bangpypers&lt;/a&gt; meetup happened at the &lt;a href=&#34;https://www.google.co.in/maps/preview#!q=ThoughtWorks%2C+147%2FF%2C+2nd+Floor%2C+ACR+Mansion%2C+8th+Main+Rd%2C+3rd+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka%2C+560034%2C+Koramangala+3+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka&amp;amp;data=!4m15!2m14!1m13!1s0x3bae14053a4499f5%3A0xe2b2b820791f972d!3m8!1m3!1d228436!2d77.6309395!3d12.9539974!3m2!1i1280!2i705!4f13.1!4m2!3d12.928713!4d77.62889&#34;&gt;ThoughtWorks office&lt;/a&gt;. Instead of just the usual 3 hour meetup, this time, we had a beginner level Python workshop in the morning which almost the same number of people attended.&lt;/p&gt;
+&lt;h2&gt;Workshop&lt;/h2&gt;
+&lt;p&gt;The workshop commenced at 10:00AM and was facilitated by &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt;. After introudcing Python, he dived deeper into it with hands on exercises for basic strings, data structures and conditions. The session was very interactive and it came to and end at 1:45PM. Find his slides below:&lt;/p&gt;
+
+&lt;iframe src=&#34;/slid.es/ratnadeepdebnath/intro-to-python/embed&#34; width=&#34;576&#34; height=&#34;420&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;p&gt;After finishing the workshop as well as lunch, everyone gathered back at the TW hall around 3PM and the sessions started at around 3:20PM.&lt;/p&gt;
+
+&lt;p&gt;The sessions kicked off with &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt;&amp;#39;s introduction to iPython. He started off by explaining the various difficulties that users face while fiddling around with the normal Python shell, multiline editing being the major bottle neck. He went one explaining the myriad of features that came with iPython that helped make life much easier.&lt;br&gt;
+Auto-completion, iPython notebook, running system command from within the interpreter, getting help for the objects, and ended with displaying &lt;a href=&#34;http://nbviewer.ipython.org/&#34;&gt;nbviewer&lt;/a&gt;, where you could share your iPython notebooks as gists. You can find his notebook &lt;a href=&#34;http://nbviewer.ipython.org/gist/kracekumar/8059932&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Next up was &lt;a href=&#34;https://twitter.com/shoaibnajeeb&#34;&gt;Shoaib Najeeb&lt;/a&gt; with his talk on using Cassandra from Pycassa. It was quite an elaborate talk where he started right from the basics explaining the NoSQL database layout contrasting it with the RDBMS ones. After having gotten everyone on the same page with the Cassandra basics, he then moved onto explaining the CAP theorem as well as the configuration required on Pycassa to get it up and running. The session was extremely interactive where he was bombarded with questions, all of which he replied to to the best of his knowledge. As time was running out, leaving his audience thirsty for more, he concluded his session by 5:40PM. The link to his presentation will be updated soon.&lt;/p&gt;
+
+&lt;p&gt;To end the day&amp;#39;s fireworks, we had &lt;a href=&#34;https://twitter.com/fayaz&#34;&gt;Fayaz&lt;/a&gt; presenting his session on logging. He started off from the basics, explaining the need for logging in any project that was going into production. Moving forward by sharing some of his insights into the best practices of using logging, he introduced various features that came with the library. He also mentioned some useful utilities such as the Redis Handler, the FingersCrossedHandler as well as the TicketingHandler. Having convinced his audience to go back and get started with logging, he wound up his session by 6:15PM, thereby bringing the meetup to an end. His presentation shall be shared soon.&lt;/p&gt;
+
+&lt;p&gt;Thanks to everyone who attended and let&amp;#39;s keep the ball rolling folks!&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>December 2013 Meetup</title>
+                <link rel="alternate" href="/blog/2013/12/16/december-meetup/" type="text/html" />
+                <id>/blog/2013/12/16/december-meetup/</id>
+                <updated>2013-12-16T09:25:00Z</updated>
+                
+                <summary type="html">&lt;a href=&#34;www.meetup.com/BangPypers/events/125797522/&#34;&gt;December Bangpypers&lt;/a&gt; will be held at &lt;a href=&#34;https://www.google.co.in/maps/preview#!q=ThoughtWorks%2C+147%2FF%2C+2nd+Floor%2C+ACR+Mansion%2C+8th+Main+Rd%2C+3rd+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka%2C+560034%2C+Koramangala+3+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka&amp;amp;data=!4m15!2m14!1m13!1s0x3bae14053a4499f5%3A0xe2b2b820791f972d!3m8!1m3!1d228436!2d77.6309395!3d12.9539974!3m2!1i1280!2i705!4f13.1!4m2!3d12.928713!4d77.62889&#34;&gt;ThoughtWorks office&lt;/a&gt;. This time we are taking new initiative for workshops.</summary>
+                <content type="html">&lt;p&gt;&lt;a href=&#34;www.meetup.com/BangPypers/events/125797522/&#34;&gt;December Bangpypers&lt;/a&gt; will be held at &lt;a href=&#34;https://www.google.co.in/maps/preview#!q=ThoughtWorks%2C+147%2FF%2C+2nd+Floor%2C+ACR+Mansion%2C+8th+Main+Rd%2C+3rd+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka%2C+560034%2C+Koramangala+3+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka&amp;amp;data=!4m15!2m14!1m13!1s0x3bae14053a4499f5%3A0xe2b2b820791f972d!3m8!1m3!1d228436!2d77.6309395!3d12.9539974!3m2!1i1280!2i705!4f13.1!4m2!3d12.928713!4d77.62889&#34;&gt;ThoughtWorks office&lt;/a&gt;. This time we are taking new initiative for workshops.&lt;/p&gt;
+
+&lt;p&gt;Next few months we are planning to have workshops, tutorials in the morning and talks in the afternoon. RSVP &lt;a href=&#34;http://www.meetup.com/BangPypers/events/125797532/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;&lt;h2&gt;Workshop:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to Python - Beginner level - 9:30 AM - 1:30 PM by &lt;a href=&#34;https://twitter.com/chowdhury_sayan&#34;&gt;Sayan&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Please install 2.7.x (not 3.x) in your laptop.&lt;/p&gt;
+&lt;h3&gt;Installation:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://docs.python-guide.org/en/latest/starting/install/osx/&#34;&gt;Install python in osx&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://docs.python-guide.org/en/latest/starting/install/win/&#34;&gt;Install python in windows&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://docs.python-guide.org/en/latest/starting/install/linux/&#34;&gt;Install python in Linux&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Talks: (3:00 - 5:00 PM)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Introduction to IPython - Beginner level - &lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; - 30 minutes.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Intro Pycassa - &lt;a href=&#34;http://www.meetup.com/BangPypers/members/78184512/&#34;&gt;Shoaib&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This talk will start with a high level introduction to Cassandra and its data model. A major portion of the talk will be used for understanding Pycassa, the python client library for Cassandra and exploring various pycassa methods for interacting with the Cassandra data model.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Logging and error reporting for fairly large projects - &lt;a href=&#34;http://www.meetup.com/BangPypers/members/80842072/&#34;&gt;Fayaz&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>November 2013 Meetup report</title>
+                <link rel="alternate" href="/blog/2013/11/16/november-meetup-report/" type="text/html" />
+                <id>/blog/2013/11/16/november-meetup-report/</id>
+                <updated>2013-11-16T09:25:00Z</updated>
+                
+                <summary type="html">&lt;a href=&#34;www.meetup.com/BangPypers/events/125797522/&#34;&gt;November Bangpypers&lt;/a&gt; held at &lt;a href=&#34;https://www.google.co.in/maps/preview#!q=ThoughtWorks%2C+147%2FF%2C+2nd+Floor%2C+ACR+Mansion%2C+8th+Main+Rd%2C+3rd+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka%2C+560034%2C+Koramangala+3+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka&amp;amp;data=!4m15!2m14!1m13!1s0x3bae14053a4499f5%3A0xe2b2b820791f972d!3m8!1m3!1d228436!2d77.6309395!3d12.9539974!3m2!1i1280!2i705!4f13.1!4m2!3d12.928713!4d77.62889&#34;&gt;ThoughtWorks office&lt;/a&gt;. 15 people attended the meetup.</summary>
+                <content type="html">&lt;p&gt;&lt;a href=&#34;www.meetup.com/BangPypers/events/125797522/&#34;&gt;November Bangpypers&lt;/a&gt; held at &lt;a href=&#34;https://www.google.co.in/maps/preview#!q=ThoughtWorks%2C+147%2FF%2C+2nd+Floor%2C+ACR+Mansion%2C+8th+Main+Rd%2C+3rd+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka%2C+560034%2C+Koramangala+3+Block%2C+Koramangala%2C+Bangalore%2C+Karnataka&amp;amp;data=!4m15!2m14!1m13!1s0x3bae14053a4499f5%3A0xe2b2b820791f972d!3m8!1m3!1d228436!2d77.6309395!3d12.9539974!3m2!1i1280!2i705!4f13.1!4m2!3d12.928713!4d77.62889&#34;&gt;ThoughtWorks office&lt;/a&gt;. 15 people attended the meetup.&lt;/p&gt;
+&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; gave talk about &lt;a href=&#34;https://speakerdeck.com/kracekumar/creating-python-project-structure&#34;&gt;creating python project skeleton&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;8506ea6030f00131c6a20e119e1f0349&#34; data-ratio=&#34;0.707182320441989&#34; src=&#34;/speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Saurabh gave a talk about using &lt;a href=&#34;https://github.com/saurabh-hirani/talks/tree/master/docopt&#34;&gt;docopt&lt;/a&gt;. It was lucid and clean explanation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; gave talk &lt;a href=&#34;https://speakerdeck.com/kracekumar/django-vs-flask&#34;&gt;Django vs Flask&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;c2641fa030ef013117604a6663548e9a&#34; data-ratio=&#34;0.707182320441989&#34; src=&#34;/speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Shantnu gave a lighting talk about &lt;a href=&#34;http://graphite.wikidot.com/&#34;&gt;graphite&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/kracetheking&#34;&gt;Kracekumar&lt;/a&gt; also gave a lighting talk about how to use ipython to write blog post.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>July 2013 Meetup Videos</title>
+                <link rel="alternate" href="/blog/2013/07/23/july-meetup-video/" type="text/html" />
+                <id>/blog/2013/07/23/july-meetup-video/</id>
+                <updated>2013-07-23T09:25:00Z</updated>
+                
+                <summary type="html">&lt;a href=&#34;http://www.meetup.com/BangPypers/events/125800162/&#34;&gt;July Bangpypers&lt;/a&gt; held at &lt;a href=&#34;https://plus.google.com/114807798068889546646/about?gl=in&amp;amp;hl=en&#34;&gt;Google office&lt;/a&gt;. 50 people attended the meetup. There was lot of discussion and crowd &lt;br&gt;
+was fantastic. We were unable to have Django logging talk by Siva which will be continued in next month meetup.</summary>
+                <content type="html">&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/BangPypers/events/125800162/&#34;&gt;July Bangpypers&lt;/a&gt; held at &lt;a href=&#34;https://plus.google.com/114807798068889546646/about?gl=in&amp;amp;hl=en&#34;&gt;Google office&lt;/a&gt;. 50 people attended the meetup. There was lot of discussion and crowd &lt;br&gt;
+was fantastic. We were unable to have Django logging talk by Siva which will be continued in next month meetup.&lt;/p&gt;
+&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://anandology.com&#34;&gt;Anand&lt;/a&gt; gave talk about Python 3 features.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;/www.youtube-nocookie.com/embed/-9ibZ5w776Q?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Saurabh was supposed to give a flash talk about decorators but it ended up being full length 38 mins talk.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;/www.youtube-nocookie.com/embed/RLbEh7MEKSs?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/becomingGuru&#34;&gt;Lakshman&lt;/a&gt; gave a talk about using IPython and Pandas for analysing what Head Phone to buy. He also wrote a &lt;a href=&#34;https://medium.com/p/128048074e9f&#34;&gt;medium&lt;/a&gt; post about it.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;/www.youtube-nocookie.com/embed/DsYxOOqgveE?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>May Meetup</title>
+                <link rel="alternate" href="/blog/2013/05/24/may-meetup-writeup/" type="text/html" />
+                <id>/blog/2013/05/24/may-meetup-writeup/</id>
+                <updated>2013-05-24T09:25:00Z</updated>
+                
+                <summary type="html">Bangpypers may meetup was be held on 18th, May 2013 in [Alphalabs][] JP Nagar .</summary>
+                <content type="html">&lt;p&gt;Bangpypers may meetup was be held on 18th, May 2013 in [Alphalabs][] JP Nagar .&lt;/p&gt;
+&lt;h1&gt;Talks&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Introduction to map/reduce by &lt;a href=&#34;http://anandology.com&#34;&gt;Anand&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/Vf3eAKtGsts&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Run Python in browser by &lt;a href=&#34;http://kracekumar.com&#34;&gt;Kracekumar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/tLnx7JzeH3I&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Run python in browser is talk about how to run python in browser without sending request to server.&lt;a href=&#34;https://github.com/replit/empythoned&#34;&gt;Empythoned&lt;/a&gt; is a project that converts CPython to LLVM bitcode and &lt;a href=&#34;https://github.com/kripken/emscripten&#34;&gt;emscripten&lt;/a&gt; converts LLVM bitcode to javascript. Here is the &lt;a href=&#34;https://github.com/kracekumar/test-empythoned&#34;&gt;code&lt;/a&gt; used in demo, feel free to contact kracekumar for further details.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Experience in writing Python to Javascript compiler - pyjs by &lt;a href=&#34;http://anandology.com&#34;&gt;Anand&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/m6xlPTC3AQs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This talk also featured in Pycon India 2011.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You can subscribe to &lt;a href=&#34;http://mail.python.org/mailman/listinfo/bangpypers&#34;&gt;mailing list&lt;/a&gt;, &lt;a href=&#34;http://www.meetup.com/BangPypers/&#34;&gt;meetup&lt;/a&gt; page, &lt;a href=&#34;https://www.facebook.com/bangpypers&#34;&gt;facebook&lt;/a&gt; page, &lt;a href=&#34;http://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG&#34;&gt;youtube channel&lt;/a&gt;.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>March Meetup Report</title>
+                <link rel="alternate" href="/blog/2013/03/24/march-meetup-report/" type="text/html" />
+                <id>/blog/2013/03/24/march-meetup-report/</id>
+                <updated>2013-03-24T09:25:00Z</updated>
+                
+                <summary type="html">Bangpypers march meetup was held on 23rd, March 2013 in &lt;a href=&#34;http://www.fsmk.org/&#34;&gt;FSMK&lt;/a&gt; office in </summary>
+                <content type="html">&lt;p&gt;Bangpypers march meetup was held on 23rd, March 2013 in &lt;a href=&#34;http://www.fsmk.org/&#34;&gt;FSMK&lt;/a&gt; office in &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;FSMK Office
+No. 121&amp;#47;17, 1st Floor, 6th main, 14th Cross, 
+Wilson garden, Bengaluru - 560030
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;from 2.00PM to 4.30PM, 25 people gathered.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sivasubramaniam?fref=ts&#34;&gt;Siva&lt;/a&gt; gave session how to get started with Django web development, showed a &lt;br&gt;
+demo how to create a todo list using Django admin interface.&lt;/p&gt;
+
+&lt;p&gt;There was one lightning talk by &lt;a href=&#34;http://arunrocks.com/&#34;&gt;Arun&lt;/a&gt; about his&lt;br&gt;
+experience of using python standard library to scrape internal live journal&lt;br&gt;
+site.&lt;br&gt;
+&lt;iframe frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; width=&#34;560&#34; height=&#34;315&#34; &lt;br&gt;
+   src=&amp;ldquo;http://www.youtube.com/embed/EMrLKlmm4LY?wmode=transparent&amp;showinfo=0&amp;rel=0&amp;autohide=1&amp;autoplay=0&amp;rdquo;&lt;br&gt;
+   frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&gt;&lt;br&gt;
+&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;During recording  audio input was mistakenly connected to audio output of&lt;br&gt;
+the lecture recorder, as a result audio for Siva&amp;#39;s session was lost.&lt;br&gt;
+Unfortunately camera backup of the video was delayed in recording and only&lt;br&gt;
+speaker face was focused, as a result video is now unusable. Sorry :-(.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>Bangpypers group expertise &amp; interest poll</title>
+                <link rel="alternate" href="/blog/2013/03/24/poll/" type="text/html" />
+                <id>/blog/2013/03/24/poll/</id>
+                <updated>2013-03-24T09:25:00Z</updated>
+                
+                <summary type="html">I have created poll to have better understanding of bangpypers meetup group expertise level, as co-organizer of the group it helps me to tell to speaker about audience level and expertise. It helps them to tune to audience level with relevant examples, talk content.</summary>
+                <content type="html">&lt;p&gt;I have created poll to have better understanding of bangpypers meetup group expertise level, as co-organizer of the group it helps me to tell to speaker about audience level and expertise. It helps them to tune to audience level with relevant examples, talk content.&lt;/p&gt;
+
+&lt;p&gt;Please cast the vote in the following polls.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/BangPypers/polls/780402/&#34;&gt;http://www.meetup.com/BangPypers/polls/780402/&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.meetup.com/BangPypers/polls/780712/&#34;&gt;http://www.meetup.com/BangPypers/polls/780712/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In case you have any other suggestions please write back to me &lt;code&gt;webmaster-bangalore@python.org.in&lt;/code&gt;.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>March Meetup</title>
+                <link rel="alternate" href="/blog/2013/03/18/march-meetup/" type="text/html" />
+                <id>/blog/2013/03/18/march-meetup/</id>
+                <updated>2013-03-18T09:25:00Z</updated>
+                
+                <summary type="html">Bangpypers march meetup will be held on 23rd, March 2013 in &lt;a href=&#34;http://www.fsmk.org/&#34;&gt;FSMK&lt;/a&gt; office in </summary>
+                <content type="html">&lt;p&gt;Bangpypers march meetup will be held on 23rd, March 2013 in &lt;a href=&#34;http://www.fsmk.org/&#34;&gt;FSMK&lt;/a&gt; office in &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;FSMK Office
+No. 121&amp;#47;17, 1st Floor, 6th main, 14th Cross, 
+Wilson garden, Bengaluru - 560030
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;from 2.00PM to 5.00PM.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to Django by &lt;a href=&#34;https://www.facebook.com/sivasubramaniam?fref=ts&#34;&gt;Siva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lighting talks(Anyone can present) about Python Tools, internals, frameworks, third party libraries.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Contact&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Kracekumar Ramaraju: 8553029521 - Bangpypers Coordinator&lt;/li&gt;
+&lt;li&gt;Shaiju: 8892324346 - FSMK Volunteer&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>February Meetup Videos</title>
+                <link rel="alternate" href="/blog/2013/03/05/feburary-meetup-video/" type="text/html" />
+                <id>/blog/2013/03/05/feburary-meetup-video/</id>
+                <updated>2013-03-05T09:25:00Z</updated>
+                
+                <summary type="html">Jonathan Toomim gave talk about his HEG/near-infrared spectroscopy work.</summary>
+                <content type="html">&lt;p&gt;Jonathan Toomim gave talk about his HEG/near-infrared spectroscopy work.&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; width=&#34;560&#34; height=&#34;315&#34; 
+   src=&#34;http://www.youtube.com/embed/1BkhLI6YxY4?wmode=transparent&amp;showinfo=0&amp;rel=0&amp;autohide=1&amp;autoplay=0&#34;
+   frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;One more talk was about IronWASP - security tool which is written in C#, and it is usable with IronPython.&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; width=&#34;560&#34; height=&#34;315&#34; 
+   src=&#34;http://www.youtube.com/embed/aotkZjoym1A?wmode=transparent&amp;showinfo=0&amp;rel=0&amp;autohide=1&amp;autoplay=0&#34;
+   frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;Two lighting talks, one about bpython and other about python editors.&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; width=&#34;560&#34; height=&#34;315&#34; 
+   src=&#34;http://www.youtube.com/embed/AoO2ATlTSFw?wmode=transparent&amp;showinfo=0&amp;rel=0&amp;autohide=1&amp;autoplay=0&#34;
+   frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;25 people attended meetup in &lt;a href=&#34;http://cis-india.org&#34;&gt;CIS&lt;/a&gt;.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>January Meetup Videos</title>
+                <link rel="alternate" href="/blog/2013/01/24/january-meetup-video/" type="text/html" />
+                <id>/blog/2013/01/24/january-meetup-video/</id>
+                <updated>2013-01-24T09:25:00Z</updated>
+                
+                <summary type="html">&lt;a href=&#34;http://anandology.com&#34;&gt;Anand&lt;/a&gt; gave talk about &lt;a href=&#34;http://webpy.org/&#34;&gt;web.py&lt;/a&gt;. 15+ people attended the session. The video is 1:34 hours.</summary>
+                <content type="html">&lt;p&gt;&lt;a href=&#34;http://anandology.com&#34;&gt;Anand&lt;/a&gt; gave talk about &lt;a href=&#34;http://webpy.org/&#34;&gt;web.py&lt;/a&gt;. 15+ people attended the session. The video is 1:34 hours.&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; width=&#34;560&#34; height=&#34;315&#34; 
+   src=&#34;http://www.youtube.com/embed/hzgxCAmDiVI?wmode=transparent&amp;showinfo=0&amp;rel=0&amp;autohide=1&amp;autoplay=0&#34;
+   frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;We didn&amp;#39;t have time for lighting talks.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>December Meetup Videos</title>
+                <link rel="alternate" href="/blog/2013/01/18/december-meetup-videos/" type="text/html" />
+                <id>/blog/2013/01/18/december-meetup-videos/</id>
+                <updated>2013-01-18T09:25:00Z</updated>
+                
+                <summary type="html">&lt;a href=&#34;http://anandology.com&#34;&gt;Anand&lt;/a&gt; gave talk about implementing python interpreter as part of &lt;a href=&#34;http://www.cs.brown.edu/courses/cs173/2012/OnLine/&#34;&gt;PLOnlineCourse&lt;/a&gt;. The talk is of two parts.</summary>
+                <content type="html">&lt;p&gt;&lt;a href=&#34;http://anandology.com&#34;&gt;Anand&lt;/a&gt; gave talk about implementing python interpreter as part of &lt;a href=&#34;http://www.cs.brown.edu/courses/cs173/2012/OnLine/&#34;&gt;PLOnlineCourse&lt;/a&gt;. The talk is of two parts.&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; width=&#34;560&#34; height=&#34;315&#34; 
+   src=&#34;http://www.youtube.com/embed/4QqSjO4Ah94?wmode=transparent&amp;showinfo=0&amp;rel=0&amp;autohide=1&amp;autoplay=0&#34;
+   frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+
+&lt;iframe frameborder=&#34;0&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;&#34; 
+   src=&#34;http://www.youtube.com/embed/rFfCJSslYg4?wmode=transparent&amp;showinfo=0&amp;rel=0&amp;autohide=1&amp;autoplay=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;Bangpypers has a playlist in &lt;a href=&#34;http://hasgeek.tv/bangpypers/meetup&#34;&gt;hasgeek.tv&lt;/a&gt; for all meetup videos. &lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>January Bangpypers Meetup</title>
+                <link rel="alternate" href="/blog/2013/01/16/january-meetup/" type="text/html" />
+                <id>/blog/2013/01/16/january-meetup/</id>
+                <updated>2013-01-16T09:25:00Z</updated>
+                
+                <summary type="html">January BangPypers meetup will be held on 19th, January in CIS, Domlur. &lt;a href=&#34;http://www.meetup.com/BangPypers/events/77829272/&#34;&gt;RSVP&lt;/a&gt;</summary>
+                <content type="html">&lt;p&gt;January BangPypers meetup will be held on 19th, January in CIS, Domlur. &lt;a href=&#34;http://www.meetup.com/BangPypers/events/77829272/&#34;&gt;RSVP&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Address&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;Centre for Internet and Society
+No 194, 2nd C Cross, 4th Main
+Opp. Domlur Club, Domlur 2nd Stage
+Bangalore, Karnataka – 560 071
+Ph: 85530-29521
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Meetup will start at 3:00 PM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Introduction to &lt;a href=&#34;http://webpy.org/&#34;&gt;web.py&lt;/a&gt;  - &lt;a href=&#34;http://anandology.com/&#34;&gt;Anand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lighting talks.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;After the meetup, interested people can join &lt;a href=&#34;http://hacknight.in/hasgeek/aaronsw-memorial&#34;&gt;aaronsw memorial hacknight&lt;/a&gt;.&lt;/p&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>December Bangpypers Meetup</title>
+                <link rel="alternate" href="/blog/2012/12/13/december-bangpypers-meetup/" type="text/html" />
+                <id>/blog/2012/12/13/december-bangpypers-meetup/</id>
+                <updated>2012-12-13T09:25:00Z</updated>
+                
+                <summary type="html">December BangPypers meetup will be held on 15th, December in learnstreet office. &lt;a href=&#34;http://www.meetup.com/BangPypers/events/95108182/&#34;&gt;RSVP&lt;/a&gt;</summary>
+                <content type="html">&lt;p&gt;December BangPypers meetup will be held on 15th, December in learnstreet office. &lt;a href=&#34;http://www.meetup.com/BangPypers/events/95108182/&#34;&gt;RSVP&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Address&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;26,Second Floor,Zam Zam Center,
+Infantry Road, Bangalore,
+Karnataka - 560001, India.
+Phone:  +91 80-22861869
+Fax: +91 80-22861869 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Meetup will start at 3:00 PM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Experience in implementing Python Interpreter as part of &lt;a href=&#34;http://www.cs.brown.edu/courses/cs173/2012/OnLine/&#34;&gt;PLOnlineCourse&lt;/a&gt; - &lt;a href=&#34;http://anandology.com&#34;&gt;Anand&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In case any one want to have discussion about particular topic it is welcome. Feel free to leave a comment. &lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;Attended by roughly 15 people. &lt;/p&gt;
+
+&lt;p&gt;At 17:30, Anand completed his presentation on his interpreter. &lt;/p&gt;
+
+&lt;p&gt;Started a discussion on the bangalore.python.org.in website. The points that came up are. &lt;/p&gt;
+&lt;h1&gt;General &lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Conduct community projects - Bangpypers can spearhead projects which the local user group can work on. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Site suggestions&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Root the blog at &lt;code&gt;bangalore.python.org.in/blog&lt;/code&gt; and then by date e.g. This entry would be &lt;code&gt;bangalore.python.org.in/blog/2012/12/15/december_metup.html&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;We need a subscribe link on the website. &lt;/li&gt;
+&lt;li&gt;We need an embedded &amp;ldquo;recent Bangpypers mail threads&amp;rdquo; widget on the site.&lt;/li&gt;
+&lt;li&gt;Design love. The site needs a lot of of design love. There were some suggestions from the audience. The plan is for the interested parties (Sidharth) to send mockups to the mailing list. &lt;/li&gt;
+&lt;li&gt;We need a college catalogue (like the Pune company catalogue).&lt;/li&gt;
+&lt;li&gt;We need a member roster. &lt;/li&gt;
+&lt;li&gt;Take appropriate steps to rename the @pyconindia twitter account and use @pythonindia for all notifications of user group meetups and everything else.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            </entry>
+        
+            <entry>
+                <title>November Bangpypers Meetup</title>
+                <link rel="alternate" href="/blog/2012/12/07/november-meetup/" type="text/html" />
+                <id>/blog/2012/12/07/november-meetup/</id>
+                <updated>2012-12-07T09:25:00Z</updated>
+                
+                <summary type="html">November BangPypers meetup was in InfoToros office, JP nagar on 24th. </summary>
+                <content type="html">&lt;p&gt;November BangPypers meetup was in InfoToros office, JP nagar on 24th. &lt;/p&gt;
+
+&lt;p&gt;There were 10 ten people and there were two talks.&lt;/p&gt;
+
+&lt;p&gt;We had mix of audience  beginners, intermediate, advanced. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/baijum&#34;&gt;Baiju&lt;/a&gt; gave &lt;a href=&#34;http://www.youtube.com/watch?v=lING02S6AAc&#34;&gt;Introduction&lt;/a&gt; about python usage, history, comparision for 7 minutes. Video is uploaded in Youtube &lt;a href=&#34;http://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG&#34;&gt;channel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; width=&#34;560&#34; height=&#34;315&#34; 
+   src=&#34;http://www.youtube.com/embed/lING02S6AAc?wmode=transparent&amp;showinfo=0&amp;rel=0&amp;autohide=1&amp;autoplay=0&#34;
+   frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+   
+
+&lt;p&gt;There was another talk by &lt;a href=&#34;http://www.meetup.com/BangPypers/members/57253672/&#34;&gt;Nandhakumar&lt;/a&gt; about &lt;a href=&#34;http://pypi.python.org/pypi/django-social-auth&#34;&gt;django_social_auth&lt;/a&gt; experience around 1 hour. Here is the &lt;a href=&#34;http://www.youtube.com/watch?v=0ek8W2CfdAk&amp;amp;list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG&amp;amp;index=2&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;&#34; 
+   src=&#34;http://www.youtube.com/embed/0ek8W2CfdAk?wmode=transparent&amp;showinfo=0&amp;rel=0&amp;autohide=1&amp;autoplay=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/playlist?list=PL6GW05BfqWIfjFsoxJTnE4g7ddFkO5ZtG&#34;&gt;Bangpypers&lt;/a&gt;  has a youtube playlist, please share the info. &lt;/p&gt;
+</content>
+            </entry>
+        
+    </feed>
